@@ -17,9 +17,8 @@ This project is a custom implementation of an SQL-based database engine written 
 
 ---
 
-A C++ compiler supporting C++11 or later
-CMake (version 3.10 or higher)
-Building the Project
+- A C++ compiler supporting C++11 or later
+- CMake (version 3.10 or higher)
 
 
 ## Running the Project
